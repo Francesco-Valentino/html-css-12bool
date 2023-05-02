@@ -3,4 +3,20 @@
     border: white 1px solid;
     color: white;
     text-align: center;
+    padding: .8rem;
+}
+
+.blue-row{
+    margin-bottom: 1rem;
+}
+
+.nested-col{
+    background-color: #01E165;
+    color: white;
+    border: #006CFA 1px solid;
+    padding: .8rem;
+}
+
+.no-text{
+    color: #006CFA;
 }
