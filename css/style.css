@@ -1,6 +1,6 @@
 [class^="col"]{
     background-color: #006CFA;
-    border-color: white;
+    border: white 1px solid;
     color: white;
     text-align: center;
 }
